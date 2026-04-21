@@ -6,7 +6,7 @@
 * **Mã lớp:** DX24TT2 
 * **Giảng viên hướng dẫn:** Lê Phong Dũ 
 * **Thời gian thực hiện:** 25/03/2026 – 20/04/2026 
-* **Email liên hệ:** [khanh160794@tvu-onschool.edu.vn 
+* **Email liên hệ:** khanh160794@tvu-onschool.edu.vn 
 * **Số điện thoại:** 0909122354 
 
 ## 2. Giới thiệu đề tài

@@ -14,7 +14,7 @@ Xây dựng website chuyên cung cấp các sản phẩm đồ dùng thể thao 
 
 ## 3. Công nghệ và Phương pháp thực hiện
 * **Nền tảng:** Sử dụng WordPress kết hợp plugin WooCommerce để xây dựng hệ thống bán hàng.
-* ]**Môi trường phát triển:** Khởi tạo môi trường Local trên máy tính cá nhân.
+* **Môi trường phát triển:** Khởi tạo môi trường Local trên máy tính cá nhân.
 * **Giao diện:** Tùy biến giao diện mẫu (Theme) chuyên biệt cho ngành thể thao.
 * **Tối ưu hóa:** Thiết lập quy trình đặt hàng tự động và tối ưu hóa trải nghiệm người dùng trên đa thiết bị (Responsive).
 

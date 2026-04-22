@@ -24,7 +24,7 @@ Xây dựng website chuyên cung cấp các sản phẩm đồ dùng thể thao 
 | **1** | 25/03 - 29/03 | Khởi tạo môi trường Local, cài đặt WordPress, cài đặt Theme và xây dựng cấu trúc các trang cơ bản. | Hoàn thành bộ khung và giao diện website. |
 | **2** | 30/03 - 05/04 | Cấu hình WooCommerce, phân loại danh mục và nhập liệu thông tin, hình ảnh sản phẩm. | Website đầy đủ dữ liệu hàng hóa và bộ lọc. |
 | **3** | 06/04 - 12/04 | Thiết lập quy trình thanh toán, vận chuyển và kiểm tra hiển thị trên thiết bị di động. | Hệ thống vận hành trơn tru, không lỗi |
-| **4** | 13/04 - 19/04 | Rà soát toàn bộ tính năng, viết báo cáo thuyết minh và chuẩn bị nộp bài. | Hoàn thiện sản phẩm và tài liệu báo cáo[. |
+| **4** | 13/04 - 19/04 | Rà soát toàn bộ tính năng, viết báo cáo thuyết minh và chuẩn bị nộp bài. | Hoàn thiện sản phẩm và tài liệu báo cáo. |
 
 ## 5. Hướng dẫn cài đặt và Triển khai (Setup)
 1. **Môi trường:** Cài đặt phần mềm **LocalWP** để tạo máy chủ ảo cục bộ.

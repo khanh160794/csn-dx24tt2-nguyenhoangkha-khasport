@@ -7,7 +7,7 @@
 * **Giảng viên hướng dẫn:** Lê Phong Dũ 
 * **Thời gian thực hiện:** 25/03/2026 – 20/04/2026 
 * **Email liên hệ:** khanh160794@tvu-onschool.edu.vn 
-* **Số điện thoại:** 0909122354 
+* **Số điện thoại:** 0909.122.354 
 
 ## 2. Giới thiệu đề tài
 Xây dựng website chuyên cung cấp các sản phẩm đồ dùng thể thao như quần áo, giày, dụng cụ tập luyện và phụ kiện. Hệ thống giúp người dùng dễ dàng tìm kiếm, xem thông tin chi tiết và đặt mua sản phẩm trực tuyến. Đồng thời cung cấp hệ thống quản trị giúp quản lý kho hàng, theo dõi đơn hàng và cập nhật khuyến mãi.
